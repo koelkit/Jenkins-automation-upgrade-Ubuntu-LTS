@@ -3,6 +3,8 @@
 ## ⚠️Note: disclaimer
 
 ## 🛠️Technologies
+- `Python`
+- `Bash`
 
 ## ✨Features
 
