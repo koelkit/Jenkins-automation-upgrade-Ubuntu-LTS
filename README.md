@@ -1,6 +1,6 @@
-# 🔍reconnaissance scanning tool for web weaknesses:
+# 🔍Web Scan Vulnerability Automator:
 
-## ⚠️Note:disclaimer
+## ⚠️Note: disclaimer
 
 ## 🛠️Technologies
 
