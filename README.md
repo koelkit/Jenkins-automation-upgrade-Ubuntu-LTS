@@ -1,4 +1,4 @@
-# 🔍Web Scan Vulnerability Automator:
+# 🔍Web Vulnerability Scanner
 A reconnaisance tool to scan a website
 
 ## ⚠️Note: disclaimer
