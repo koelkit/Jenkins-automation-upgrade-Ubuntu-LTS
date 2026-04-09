@@ -1,4 +1,4 @@
-# 🔍Web Vulnerability Scanner
+# 🔍Omegon
 A automated reconnaisance tool to scan a website for vulnerabilities
 
 ## ⚠️Note: disclaimer
