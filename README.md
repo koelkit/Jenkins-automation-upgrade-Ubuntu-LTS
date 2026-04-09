@@ -9,9 +9,10 @@ A reconnaisance tool to scan a website
 ## 🛠️Technologies
 - `Python`
 - `Bash`
-
-## ✨Features
 - `Nuclei`
+  
+## ✨Features
+
 
 ## ⚙️The Process
 
