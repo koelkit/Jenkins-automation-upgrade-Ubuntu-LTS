@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/omegon-logo.png" width="250" alt="Omegon Logo">
+</p>
 # 🔍Omegon
 A automated reconnaisance tool to scan a website for vulnerabilities
 
