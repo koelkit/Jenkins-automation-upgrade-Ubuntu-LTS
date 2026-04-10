@@ -20,14 +20,14 @@
 - `Python`
 - `Bash`
 - `Nuclei`
-- 
+
 <br>
 
 ## ✨Features
 - **Automated Reconnaissance:** Rapidly identifies web assets and active services.
 - **Template-Based Scanning:** Leverages the powerful Nuclei engine for industry-standard vulnerability detection.
 - **Modular Logic:** Optimized using a hybrid of Python and Bash for maximum execution speed.
-- 
+  
 <br>
 
 ## ⚙️The Process
