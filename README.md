@@ -34,3 +34,4 @@ My inspiration for Omegon came from the Dutch Government Bug Bounty program. I w
 ### 🚀Running the Project
 
 #### Step 1: Installation & Dependency Check
+- update the system:
