@@ -28,7 +28,6 @@ My inspiration for Omegon came from the Dutch Government Bug Bounty program. I w
 - `Kali machine` (preferably latest version) with the following tools/software:
    - `Python` 
    - `Nuclei`
-   - `Go`
 - `Working network connection`
 
 #
@@ -38,4 +37,4 @@ My inspiration for Omegon came from the Dutch Government Bug Bounty program. I w
 #### Step 1: Installation & Dependency Check
 - update the system: `sudo apt update && sudo apt upgrade -y`
 - install python: `sudo apt install python3 python3-pip -y`
-- install Nuclei: `sudo apt install nuclei -y`
+- install Nuclei: `sudo apt install nuclei -y && nuclei -ut`
