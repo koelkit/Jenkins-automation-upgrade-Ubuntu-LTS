@@ -43,10 +43,9 @@ My inspiration for Omegon came from the Dutch Government Bug Bounty program. I w
 
 <br>
 
-### 🚀Running the Project
-#
+## 🚀Running the Project
 
-#### Step 1: Installation & Dependency Check
+### Step 1: Installation & Dependency Check
 - Update the system: `sudo apt update && sudo apt upgrade -y`
 - Install Python: `sudo apt install python3 python3-pip -y`
 - Install Nuclei: `sudo apt install nuclei -y && nuclei -ut`
