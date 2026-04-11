@@ -49,3 +49,7 @@ My inspiration for Omegon came from the Dutch Government Bug Bounty program. I w
 - Update the system: `sudo apt update && sudo apt upgrade -y`
 - Install Python: `sudo apt install python3 python3-pip -y`
 - Install Nuclei: `sudo apt install nuclei -y && nuclei -ut`
+
+<p align="center">
+  <img src="assets/step 1.gif" alt="Omegon Demo1" width="600">
+</p>
